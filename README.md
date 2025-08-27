@@ -18,4 +18,4 @@
 - If you restart the app repeatedly, your files may be cluttered inside data folder, as avery time the app is launched, something is created inside data folder.
 
 ## Additional Note:
-- The CV read is inside /app/ocr/cvs. Feel free to change the CV.
+- The CV read is inside /app/ocr/cvs. Feel free to change the CV (hopefully no more than 3 pages).
